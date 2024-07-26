@@ -16,4 +16,4 @@ dependencies:
   - imageio
   - pip:
     - imageio-ffmpeg>=0.4.3
-    - pyspng
+    - pyspng-seunglab # the original pyspng does not have wheels for Mac, this is a fork that has 
